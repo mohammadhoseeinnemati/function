@@ -6,7 +6,12 @@ e = int(input("plz enter your accounting score: "))
 f = int(input("plz enter your math score: "))
 g = int(input("plz enter your ethics score: "))
 
-def my_function1(farsi,english,economy,chologypsy,accounting,math,ethics,):
-    print(farsi + english + economy + chologypsy + accounting + math + ethics / 7)
+function = a + b + c + d + e + f + g
 
-my_function1(a,b,c,d,e,f,g,)
+def my_function1(function):
+    print(function)
+def my_function(function):
+    print(function/7)
+    
+my_function1(function)
+my_function1(function/7)
