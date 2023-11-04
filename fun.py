@@ -1,3 +1,5 @@
+#score student class_1
+
 a = int(input("plz enter your farsi score: "))
 b = int(input("piz enter your english score: "))
 c = int(input("plz enter your economy score: "))
